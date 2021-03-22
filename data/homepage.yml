@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
-  content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
+  title : "Crema regeneradora antiedad"
+  content : "Es difícil detener los cambios cutáneos relacionados con la edad después de los 50 años, pero es bastante factible. Este es el poder de la Ultimate Anti-Age Redensifying Cream de la élite suiza Qiriness."
   image : "images/banner.png"
   # button
   button:
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "¡En solo un mes de usar este increíble producto, su piel se transformará más allá del reconocimiento! La fórmula rejuvenecedora del producto contiene componentes especiales altamente activos que tienen notables propiedades regeneradoras y fortalecedoras. La crema tensa perfectamente la piel, suaviza las arrugas profundas, afina el contorno del rostro y mejora su color. La delicada consistencia nutritiva de la crema se absorbe rápidamente, hidratando intensamente la piel y dándole una extraordinaria sensación de completo confort."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "utilizar por la mañana y por la noche después de aplicar el sérum. Aplicar sobre rostro y cuello limpios."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,26 +89,19 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Se lo compré a mi mamá como regalo. Mamá tiene 65 años. Ella siempre estuvo tranquila al irse. Pero, con esta crema, una historia completamente diferente) Ella dice que esta es la primera crema que realmente funciona en su vida. ¡El resultado, de hecho, es maravilloso! ¡Ponemos un sólido 5!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Agradezco la rápida entrega de todo el pedido, el descuento y sobre todo el regalo. He estado usando esta serie durante mucho tiempo y solo estoy esperando un buen descuento. agradecer"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "He estado usando esta crema durante 3 semanas y hasta ahora es la mejor de todas las que he usado antes. Me gusta mucho que la crema sea de textura ligera, la piel fresca y tersa, y un dato más, durante el día hay sensación de tirantez en el rostro, no he notado esto para ninguna crema."
       rating : "five" # rating star, one to five
-      
-    # testimonial item loop
-    - name : "Kalista Tankara"
-      image : "images/clients/client-2.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Se me acercó y realmente le gustó. La piel posterior es aterciopelada."
-      rating : "four" # rating star, one to five
